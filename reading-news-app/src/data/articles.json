@@ -1,0 +1,103 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "category": "world",
+      "emoji": "🌍",
+      "title": "Amazing Animals",
+      "levels": {
+        "6-7": {
+          "text": "Did you know? Elephants are very big animals. They live in Africa and Asia. Elephants love to eat plants. They use their long nose called a trunk to pick up food. Baby elephants stay close to their moms. Elephants are smart and can remember things for many years.",
+          "vocabulary": {
+            "elephants": {"pronunciation": "EL-uh-fents", "definition": "Very large gray animals with long noses called trunks"},
+            "trunk": {"pronunciation": "TRUNK", "definition": "The long nose of an elephant used for smelling, breathing, and grabbing things"},
+            "Africa": {"pronunciation": "AF-ri-ka", "definition": "A very large continent where many wild animals live"},
+            "Asia": {"pronunciation": "AY-zha", "definition": "The largest continent on Earth"}
+          }
+        },
+        "8-9": {
+          "text": "Elephants are magnificent creatures that roam across Africa and Asia. These gentle giants are the largest land animals on Earth. Their remarkable trunk serves multiple purposes - breathing, smelling, touching, grasping, and producing sound. Elephant families are led by wise older females called matriarchs. These intelligent mammals have excellent memories and can recognize other elephants even after many years apart.",
+          "vocabulary": {
+            "magnificent": {"pronunciation": "mag-NIF-i-sent", "definition": "Extremely beautiful and impressive"},
+            "creatures": {"pronunciation": "KREE-churs", "definition": "Living beings or animals"},
+            "matriarchs": {"pronunciation": "MAY-tree-arks", "definition": "Female leaders of a family or group"},
+            "mammals": {"pronunciation": "MAM-uls", "definition": "Warm-blooded animals that feed milk to their babies"}
+          }
+        },
+        "10-11": {
+          "text": "Elephants, the majestic pachyderms of Africa and Asia, demonstrate extraordinary intelligence and complex social structures. Their prehensile trunks contain over 40,000 muscles, enabling precise movements from crushing tree branches to picking up tiny objects. Elephant herds operate under matriarchal leadership, where knowledge is passed down through generations. Conservation efforts are crucial as habitat loss threatens these magnificent beings.",
+          "vocabulary": {
+            "majestic": {"pronunciation": "muh-JES-tik", "definition": "Having impressive beauty and dignity"},
+            "pachyderms": {"pronunciation": "PAK-i-derms", "definition": "Thick-skinned mammals like elephants"},
+            "prehensile": {"pronunciation": "pri-HEN-sil", "definition": "Capable of grasping or holding"},
+            "matriarchal": {"pronunciation": "may-tree-AR-kul", "definition": "Led by female elders"}
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "category": "creativity",
+      "emoji": "🎨",
+      "title": "Art Around Us",
+      "levels": {
+        "6-7": {
+          "text": "Art is everywhere! You can find art in paintings, music, and dancing. Colors make us feel happy. Blue feels calm like the sky. Red feels excited like fire. Yellow feels sunny and bright. You can make art too! Draw, paint, or sing. There is no wrong way to make art. Just have fun and be creative!",
+          "vocabulary": {
+            "paintings": {"pronunciation": "PAYNT-ings", "definition": "Pictures made with paint on canvas or paper"},
+            "creative": {"pronunciation": "kree-AY-tiv", "definition": "Using imagination to make something new"},
+            "canvas": {"pronunciation": "KAN-vus", "definition": "Special cloth artists paint on"}
+          }
+        },
+        "8-9": {
+          "text": "Art surrounds us in countless forms - from colorful murals on city walls to beautiful sculptures in parks. Artists express feelings and tell stories through their work. Different colors create different moods. Warm colors like red and orange feel energetic. Cool colors like blue and green feel peaceful. Art helps us see the world in new ways. Everyone can be an artist - just let your imagination flow!",
+          "vocabulary": {
+            "murals": {"pronunciation": "MYOO-ruls", "definition": "Large paintings on walls"},
+            "sculptures": {"pronunciation": "SKULP-churs", "definition": "3D artworks made from clay, stone, or metal"},
+            "energetic": {"pronunciation": "en-er-JET-ik", "definition": "Full of energy and excitement"}
+          }
+        },
+        "10-11": {
+          "text": "Art transcends boundaries and communicates universal human experiences. From ancient cave paintings to modern digital installations, artistic expression reflects cultural values and individual perspectives. Color theory demonstrates how hues influence emotions and perceptions. Street art transforms urban spaces into open-air galleries. Creative thinking developed through art enhances problem-solving abilities in all areas of life.",
+          "vocabulary": {
+            "transcends": {"pronunciation": "tran-SENDS", "definition": "Goes beyond limits"},
+            "installations": {"pronunciation": "in-stuh-LAY-shuns", "definition": "Large-scale artworks designed for specific spaces"},
+            "perspectives": {"pronunciation": "per-SPEK-tivs", "definition": "Different points of view"}
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "category": "kindness",
+      "emoji": "💝",
+      "title": "Being Kind",
+      "levels": {
+        "6-7": {
+          "text": "Kindness makes the world better! When you share your toys, you are being kind. When you help someone who falls, you are being kind. Saying please and thank you is kind too. Kind words make people smile. You can draw pictures for friends. Holding the door open is kind. Small acts of kindness make big differences. Let's spread kindness every day!",
+          "vocabulary": {
+            "share": {"pronunciation": "SHAIR", "definition": "To let others use or enjoy something with you"},
+            "acts": {"pronunciation": "AKTS", "definition": "Things you do"},
+            "spread": {"pronunciation": "SPRED", "definition": "To give to many people"}
+          }
+        },
+        "8-9": {
+          "text": "Kindness is like a superpower that everyone has! When we show kindness, it creates a ripple effect. One kind act inspires others to be kind too. You can practice kindness by including someone who feels left out, helping a classmate with homework, or writing encouraging notes. Listening carefully when others speak shows respect and kindness. Remember, even small gestures can brighten someone's entire day!",
+          "vocabulary": {
+            "ripple": {"pronunciation": "RIP-ul", "definition": "Small waves that spread out from one point"},
+            "inspires": {"pronunciation": "in-SPIERS", "definition": "Makes someone want to do something good"},
+            "gestures": {"pronunciation": "JES-churs", "definition": "Actions that show feelings"}
+          }
+        },
+        "10-11": {
+          "text": "Kindness represents one of humanity's greatest strengths. Research shows that performing acts of kindness releases feel-good hormones called endorphins. Compassionate communities experience lower stress levels and stronger connections. Kindness isn't weakness - it requires courage to stand up for others and empathy to understand different perspectives. By practicing daily kindness, we contribute to a more inclusive and supportive world for everyone.",
+          "vocabulary": {
+            "humanity": {"pronunciation": "hyoo-MAN-i-tee", "definition": "All people on Earth"},
+            "compassionate": {"pronunciation": "kum-PASH-uh-nut", "definition": "Caring about others' suffering"},
+            "empathy": {"pronunciation": "EM-puh-thee", "definition": "Understanding how others feel"}
+          }
+        }
+      }
+    }
+  ]
+}
